@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JanickSpielmann
-- 👀 I’m interested in Computer, Hiking, Climbing, 
-- 🌱 I’m currently learning Java and how to work with Git.
+- 👀 I’m interested in Computer, Hiking, Climbing, Badminton. 
+- 🌱 I’m currently learning Java and how to work with Git. I Just started my education into programming in 2022.
 - 💞️ I’m looking to collaborate on easy Java projects
 - 📫 How to reach me write me via mail github@messageme.ch
 
